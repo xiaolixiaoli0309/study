@@ -1,0 +1,4 @@
+com\pojo\Dep.class
+com\action\DepAction.class
+com\mapper\DepMapper.class
+com\service\DepService.class
